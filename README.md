@@ -24,24 +24,6 @@ A clean and responsive weather application that displays real-time weather infor
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-<img src="./screenshots/main-view.png" alt="Main View" width="600"/>
-
-### Search Functionality
-<img src="./screenshots/search.png" alt="Search" width="600"/>
-
-### Mobile View
-<p align="center">
-  <img src="./screenshots/mobile.png" alt="Mobile View" width="300"/>
-</p>
-
----
-
-
-
-
 
 ## 🛠️ Technologies Used
 
